@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
+title: Portraits of Change
+email: thomas@PortraitsofChange.org
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Jazz is not a genre, or even a collection of genres; It is a philosophy of music, and of life; to always explore, always wonder, and always seek positive change. The mission of Portraits of Change is to reaffirm the notion that jazz is a musical language of innovation."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
