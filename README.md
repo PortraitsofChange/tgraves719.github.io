@@ -1,7 +1,13 @@
-## Portraits of Change
+Grayscale Jekyll theme
+=========================
 
-This site is the future home of Portraits of Change, an augmented reality experience that sets forth an odyssey through the innovations of jazz. For more information, please contact me at Thomas@PortraitsofChange.org
+Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 
- [Facebook](fb.me/JazzPortraitsofChange) 
- 
- 
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+
+=========
+For more details, read the [documentation](http://jekyllrb.com/)
